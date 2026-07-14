@@ -1,0 +1,14 @@
+# Claude Code local settings
+.claude/
+
+# Archives (source of truth is SonicVision.swiftpm/)
+*.zip
+
+# macOS / Xcode
+.DS_Store
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# Swift Playgrounds
+.swiftpm/xcode/
