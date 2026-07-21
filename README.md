@@ -17,6 +17,8 @@ turning LiDAR depth into touch and sound, entirely on-device.**
 
 *My submission to Apple's **Swift Student Challenge 2026*** 🍎
 
+**English** · [🇫🇷 Français](README.fr.md)
+
 </div>
 
 ---
@@ -180,4 +182,11 @@ Sonic Vision is my Swift Student Challenge 2026 entry: four Apple frameworks orc
 
 *Swift Student Challenge 2026*
 
+<sub>
+
+Built with care by <b><a href="https://nathanfernandes.fr">Nathan Fernandes</a></b> — Founder of SYNN-IA · Dijon, France
+
+🌐 <a href="https://nathanfernandes.fr">Portfolio</a> · 💼 <a href="https://www.linkedin.com/in/nathan-fernandes-a5793b377/">LinkedIn</a> · 🐙 <a href="https://github.com/SynnIA">GitHub</a>
+
+</sub>
 </div>
